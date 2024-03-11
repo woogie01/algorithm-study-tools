@@ -1,4 +1,4 @@
-# Algorithm-Study_Tools
+# Tools - Algorithm Study
 
 🔥 코테를 위해 미리미리 "꾸준히" 알고리즘 실력을 쌓아봅시다! 🔥
 
